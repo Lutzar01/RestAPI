@@ -4,4 +4,4 @@
 
 # Status
 
-Terminated development
+Development paused until further notice. 
